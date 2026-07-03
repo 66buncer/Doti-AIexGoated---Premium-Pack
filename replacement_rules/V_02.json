@@ -1,0 +1,3262 @@
+{
+  "replacement_rules": [
+    {
+      "name": "NYX_Player_Footstep_Concrete_Walk_01 -> IMPConcrete1",
+      "replace_ids": [
+        128798482747063
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPConcrete1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Concrete_Walk_02 -> IMPConcrete2",
+      "replace_ids": [
+        116607539089179
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPConcrete2.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Concrete_Walk_03 -> IMPConcrete3",
+      "replace_ids": [
+        133869217654230
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPConcrete3.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Concrete_Walk_04 -> IMPConcrete1",
+      "replace_ids": [
+        93864594110018
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPConcrete1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Concrete_Walk_05 -> IMPConcrete2",
+      "replace_ids": [
+        125356784189277
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPConcrete2.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Concrete_Walk_06 -> IMPConcrete3",
+      "replace_ids": [
+        113192153701744
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPConcrete3.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Concrete_Run_01 -> IMPConcrete1",
+      "replace_ids": [
+        112046702094101
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPConcrete1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Concrete_Run_02 -> IMPConcrete2",
+      "replace_ids": [
+        136888685721941
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPConcrete2.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Concrete_Run_03 -> IMPConcrete3",
+      "replace_ids": [
+        100002205162656
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPConcrete3.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Concrete_Run_04 -> IMPConcrete1",
+      "replace_ids": [
+        125079660553116
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPConcrete1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Concrete_Run_05 -> IMPConcrete2",
+      "replace_ids": [
+        81407718369191
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPConcrete2.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Concrete_Run_06 -> IMPConcrete3",
+      "replace_ids": [
+        81632427386937
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPConcrete3.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Concrete_Jump_Land_01 -> IMPConcrete1",
+      "replace_ids": [
+        80007757769978
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPConcrete1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Concrete_Jump_Land_02 -> IMPConcrete2",
+      "replace_ids": [
+        109315210875311
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPConcrete2.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Concrete_Jump_Land_03 -> IMPConcrete3",
+      "replace_ids": [
+        126547587695704
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPConcrete3.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Concrete_JumpV2_Start_01 -> IMPConcrete1",
+      "replace_ids": [
+        140358620184879
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPConcrete1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Concrete_JumpV2_Start_02 -> IMPConcrete2",
+      "replace_ids": [
+        127042570743653
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPConcrete2.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Concrete_JumpV2_Start_03 -> IMPConcrete3",
+      "replace_ids": [
+        107117399860700
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPConcrete3.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Rock_Walk_01 -> IMPDirt1",
+      "replace_ids": [
+        132376982048458
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Rock_Walk_02 -> IMPDirt2",
+      "replace_ids": [
+        105389130957004
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt2.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Rock_Walk_03 -> IMPDirt1",
+      "replace_ids": [
+        110369184106077
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Rock_Walk_04 -> IMPDirt2",
+      "replace_ids": [
+        130462855122339
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt2.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Rock_Walk_05 -> IMPDirt1",
+      "replace_ids": [
+        99615029574838
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Rock_Walk_06 -> IMPDirt2",
+      "replace_ids": [
+        130451141182195
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt2.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Rock_Run_01 -> IMPDirt1",
+      "replace_ids": [
+        112074818098804
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Rock_Run_02 -> IMPDirt2",
+      "replace_ids": [
+        92366904277549
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt2.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Rock_Run_03 -> IMPDirt1",
+      "replace_ids": [
+        109630496983976
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Rock_Run_04 -> IMPDirt2",
+      "replace_ids": [
+        134949482786302
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt2.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Rock_Run_05 -> IMPDirt1",
+      "replace_ids": [
+        87815174917704
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Rock_Run_06 -> IMPDirt2",
+      "replace_ids": [
+        83128918512010
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt2.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Rock_Jump_Land_01 -> IMPDirt1",
+      "replace_ids": [
+        72888982146797
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Rock_Jump_Land_02 -> IMPDirt2",
+      "replace_ids": [
+        125076594754854
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt2.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Rock_Jump_Land_03 -> IMPDirt1",
+      "replace_ids": [
+        94619369528005
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Rock_Jump_Start_01 -> IMPDirt1",
+      "replace_ids": [
+        134542125070918
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Rock_Jump_Start_02 -> IMPDirt2",
+      "replace_ids": [
+        96947888294327
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt2.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Rock_Jump_Start_03 -> IMPDirt1",
+      "replace_ids": [
+        79539607275099
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Rock_RunV2_01 -> IMPDirt1",
+      "replace_ids": [
+        75001109579201
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Rock_RunV2_03 -> IMPDirt2",
+      "replace_ids": [
+        132471714191355
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt2.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Rock_RunV2_04 -> IMPDirt1",
+      "replace_ids": [
+        99468702351204
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Rock_RunV2_05 -> IMPDirt2",
+      "replace_ids": [
+        117210918044340
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt2.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Rock_RunV2_06 -> IMPDirt1",
+      "replace_ids": [
+        96374995839901
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Rock_WalkV2_01 -> IMPDirt1",
+      "replace_ids": [
+        107666075463730
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Rock_WalkV2_02 -> IMPDirt2",
+      "replace_ids": [
+        140482210619146
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt2.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Rock_WalkV2_03 -> IMPDirt1",
+      "replace_ids": [
+        86377485743038
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Rock_WalkV2_04 -> IMPDirt2",
+      "replace_ids": [
+        88577272806869
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt2.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Rock_WalkV2_05 -> IMPDirt1",
+      "replace_ids": [
+        71079805437934
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Rock_WalkV2_06 -> IMPDirt2",
+      "replace_ids": [
+        97456788783065
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt2.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Rock_JumpV2_Land_01 -> IMPDirt1",
+      "replace_ids": [
+        87679697916190
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Rock_JumpV2_Land_02 -> IMPDirt2",
+      "replace_ids": [
+        99083254798285
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt2.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Rock_JumpV2_Land_03 -> IMPDirt1",
+      "replace_ids": [
+        113850146776179
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Rock_JumpV2_Start_01 -> IMPDirt1",
+      "replace_ids": [
+        89155438188129
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Rock_JumpV2_Start_02 -> IMPDirt2",
+      "replace_ids": [
+        98212149954586
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt2.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Rock_JumpV2_Start_03 -> IMPDirt1",
+      "replace_ids": [
+        95709246845571
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Sand_Walk_01 -> IMPDirt1",
+      "replace_ids": [
+        95691447308949
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Sand_Walk_02 -> IMPDirt2",
+      "replace_ids": [
+        101866033484066
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt2.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Sand_Walk_03 -> IMPDirt1",
+      "replace_ids": [
+        92568067777280
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Sand_Walk_04 -> IMPDirt2",
+      "replace_ids": [
+        74229026865770
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt2.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Sand_Walk_05 -> IMPDirt1",
+      "replace_ids": [
+        114048900384988
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Sand_Walk_06 -> IMPDirt2",
+      "replace_ids": [
+        138900467228272
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt2.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Sand_Run_01 -> IMPDirt1",
+      "replace_ids": [
+        107078697968310
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Sand_Run_02 -> IMPDirt2",
+      "replace_ids": [
+        100904546659036
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt2.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Sand_Run_03 -> IMPDirt1",
+      "replace_ids": [
+        110112530523925
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Sand_Run_04 -> IMPDirt2",
+      "replace_ids": [
+        72017586058012
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt2.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Sand_Run_05 -> IMPDirt1",
+      "replace_ids": [
+        86085587909310
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Sand_Run_06 -> IMPDirt2",
+      "replace_ids": [
+        87748733164846
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt2.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Sand_Jump_Land_01 -> IMPDirt1",
+      "replace_ids": [
+        84725145173010
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Sand_Jump_Land_02 -> IMPDirt2",
+      "replace_ids": [
+        90487450527338
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt2.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Sand_Jump_Land_03 -> IMPDirt1",
+      "replace_ids": [
+        118062317523519
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Sand_JumpV2_Start_01 -> IMPDirt1",
+      "replace_ids": [
+        108618235561658
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Sand_JumpV2_Start_02 -> IMPDirt2",
+      "replace_ids": [
+        101996526266507
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt2.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Sand_JumpV2_Start_03 -> IMPDirt1",
+      "replace_ids": [
+        71286443148452
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Grass_Walk_01 -> IMPDirt1",
+      "replace_ids": [
+        99938900729791
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Grass_Walk_02 -> IMPDirt2",
+      "replace_ids": [
+        117163709432820
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt2.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Grass_Walk_03 -> IMPDirt1",
+      "replace_ids": [
+        127397672854239
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Grass_Walk_04 -> IMPDirt2",
+      "replace_ids": [
+        131827683671089
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt2.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Grass_Walk_05 -> IMPDirt1",
+      "replace_ids": [
+        112374875966602
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Grass_Walk_06 -> IMPDirt2",
+      "replace_ids": [
+        108388971071352
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt2.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Grass_Run_01 -> IMPDirt1",
+      "replace_ids": [
+        137870019941968
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Grass_Run_02 -> IMPDirt2",
+      "replace_ids": [
+        112771957870961
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt2.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Grass_Run_03 -> IMPDirt1",
+      "replace_ids": [
+        90617172088102
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Grass_Run_04 -> IMPDirt2",
+      "replace_ids": [
+        101530798628233
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt2.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Grass_Run_05 -> IMPDirt1",
+      "replace_ids": [
+        75613071790686
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Grass_Run_06 -> IMPDirt2",
+      "replace_ids": [
+        125695853121539
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt2.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Grass_Jump_Land_01 -> IMPDirt1",
+      "replace_ids": [
+        74187583769304
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Grass_Jump_Land_02 -> IMPDirt2",
+      "replace_ids": [
+        107341867201833
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt2.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Grass_Jump_Land_03 -> IMPDirt1",
+      "replace_ids": [
+        90494337665438
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Grass_Jump_Start_01 -> IMPDirt1",
+      "replace_ids": [
+        128169666365478
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Grass_Jump_Start_02 -> IMPDirt2",
+      "replace_ids": [
+        103002268434348
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt2.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Grass_Jump_Start_03 -> IMPDirt1",
+      "replace_ids": [
+        86189429385454
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPDirt1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Metal_Walk_01 -> IMPMetal1",
+      "replace_ids": [
+        130066103145358
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPMetal1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Metal_Walk_02 -> IMPMetal2",
+      "replace_ids": [
+        121849111467042
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPMetal2.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Metal_Walk_03 -> IMPMetal3",
+      "replace_ids": [
+        118264648257105
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPMetal3.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Metal_Walk_04 -> IMPMetal1",
+      "replace_ids": [
+        86604295031641
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPMetal1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Metal_Walk_05 -> IMPMetal2",
+      "replace_ids": [
+        138121357326145
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPMetal2.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Metal_Walk_06 -> IMPMetal3",
+      "replace_ids": [
+        121111615412719
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPMetal3.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Metal_Run_01 -> IMPMetal1",
+      "replace_ids": [
+        124791999629354
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPMetal1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Metal_Run_02 -> IMPMetal2",
+      "replace_ids": [
+        117606395382555
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPMetal2.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Metal_Run_03 -> IMPMetal3",
+      "replace_ids": [
+        71447130215246
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPMetal3.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Metal_Run_04 -> IMPMetal1",
+      "replace_ids": [
+        96587251907555
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPMetal1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Metal_Run_05 -> IMPMetal2",
+      "replace_ids": [
+        132280164487492
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPMetal2.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Metal_Run_06 -> IMPMetal3",
+      "replace_ids": [
+        124346034614191
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPMetal3.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Metal_Jump_Land_01 -> IMPMetal1",
+      "replace_ids": [
+        78226991582271
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPMetal1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Metal_Jump_Land_02 -> IMPMetal2",
+      "replace_ids": [
+        136384641031540
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPMetal2.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Metal_Jump_Land_03 -> IMPMetal3",
+      "replace_ids": [
+        75336877421413
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPMetal3.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Metal_Jump_Start_01 -> IMPMetal1",
+      "replace_ids": [
+        95196191724580
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPMetal1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Metal_Jump_Start_02 -> IMPMetal2",
+      "replace_ids": [
+        84314137851937
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPMetal2.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Metal_Jump_Start_03 -> IMPMetal3",
+      "replace_ids": [
+        138895914116458
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPMetal3.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Wood_Walk_01 -> IMPWood1",
+      "replace_ids": [
+        75196510094139
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPWood1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Wood_Walk_02 -> IMPWood2",
+      "replace_ids": [
+        134506443419332
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPWood2.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Wood_Walk_03 -> IMPWood3",
+      "replace_ids": [
+        130497086730985
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPWood3.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Wood_Walk_04 -> IMPWood1",
+      "replace_ids": [
+        84261508058480
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPWood1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Wood_Walk_05 -> IMPWood2",
+      "replace_ids": [
+        96320497671928
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPWood2.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Wood_Walk_06 -> IMPWood3",
+      "replace_ids": [
+        89248290744397
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPWood3.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Wood_Run_01 -> IMPWood1",
+      "replace_ids": [
+        112086844050667
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPWood1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Wood_Run_02 -> IMPWood2",
+      "replace_ids": [
+        71691780028522
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPWood2.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Wood_Run_03 -> IMPWood3",
+      "replace_ids": [
+        132797944579127
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPWood3.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Wood_Run_04 -> IMPWood1",
+      "replace_ids": [
+        126977475581343
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPWood1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Wood_Run_05 -> IMPWood2",
+      "replace_ids": [
+        127998808527562
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPWood2.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Wood_Run_06 -> IMPWood3",
+      "replace_ids": [
+        120066654587308
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPWood3.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Wood_Jump_Land_01 -> IMPWood1",
+      "replace_ids": [
+        79008879050613
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPWood1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Wood_Jump_Land_02 -> IMPWood2",
+      "replace_ids": [
+        91228775493527
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPWood2.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Wood_Jump_Land_03 -> IMPWood3",
+      "replace_ids": [
+        100803771606634
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPWood3.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Wood_Jump_Start_01 -> IMPWood1",
+      "replace_ids": [
+        110976547921274
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPWood1.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Wood_Jump_Start_02 -> IMPWood2",
+      "replace_ids": [
+        123692615575949
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPWood2.ogg"
+    },
+    {
+      "name": "NYX_Player_Footstep_Wood_Jump_Start_03 -> IMPWood3",
+      "replace_ids": [
+        116225078056701
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/IMPWood3.ogg"
+    },
+    {
+      "name": "NYX_Player_Movement_Slide_LOOP_V3 -> Slide",
+      "replace_ids": [
+        83762403170685
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/Slide.ogg"
+    },
+    {
+      "name": "NYX_Player_Movement_Slide_Start_01 -> Slide",
+      "replace_ids": [
+        133199595203916
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/Slide.ogg"
+    },
+    {
+      "name": "NYX_Player_Movement_Slide_Start_02 -> Slide",
+      "replace_ids": [
+        106058940248334
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/Slide.ogg"
+    },
+    {
+      "name": "NYX_Player_Movement_Slide_Start_03 -> Slide",
+      "replace_ids": [
+        94600160576705
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/Slide.ogg"
+    },
+    {
+      "name": "countdown 1 -> Countdown",
+      "replace_ids": [
+        99878217546885
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/Countdown.ogg"
+    },
+    {
+      "name": "countdown 2 -> Countdown",
+      "replace_ids": [
+        125586276025009
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/Countdown.ogg"
+    },
+    {
+      "name": "hud appear -> Click4",
+      "replace_ids": [
+        88469463662481
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/Click4.ogg"
+    },
+    {
+      "name": "settings appear -> Click4",
+      "replace_ids": [
+        108972371108901
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/Click4.ogg"
+    },
+    {
+      "name": "armory transition -> Click4",
+      "replace_ids": [
+        82976106547075
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/Click4.ogg"
+    },
+    {
+      "name": "ui click -> Click4",
+      "replace_ids": [
+        89435104253792
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/Click4.ogg"
+    },
+    {
+      "name": "ui release -> Click4",
+      "replace_ids": [
+        112439805732795
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/Click4.ogg"
+    },
+    {
+      "name": "hover (3) -> Hover",
+      "replace_ids": [
+        134080646729143
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/Hover.ogg"
+    },
+    {
+      "name": "shop buy -> Coins1",
+      "replace_ids": [
+        110674428987111
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/Coins1.ogg"
+    },
+    {
+      "name": "buy -> Coins1",
+      "replace_ids": [
+        117389776432669
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/Coins1.ogg"
+    },
+    {
+      "name": "purchase -> Coins1",
+      "replace_ids": [
+        79934137293239
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/Coins1.ogg"
+    },
+    {
+      "name": "shop sffx -> Coins2",
+      "replace_ids": [
+        76184313483092
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/Coins2.ogg"
+    },
+    {
+      "name": "shop whoosh -> Coins2",
+      "replace_ids": [
+        84292723582166
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/Coins2.ogg"
+    },
+    {
+      "name": "item go invo -> Coins1",
+      "replace_ids": [
+        104224142935041
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/Coins1.ogg"
+    },
+    {
+      "name": "case appear -> Click4",
+      "replace_ids": [
+        99949130212240
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/Click4.ogg"
+    },
+    {
+      "name": "case ui (1) -> Click4",
+      "replace_ids": [
+        89387732959059
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/Click4.ogg"
+    },
+    {
+      "name": "case  legendary opening -> LevelUp",
+      "replace_ids": [
+        101980792638850
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/LevelUp.ogg"
+    },
+    {
+      "name": "daily rewards ui -> LevelUp",
+      "replace_ids": [
+        130924498084443
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/LevelUp.ogg"
+    },
+    {
+      "name": "battle pass ui open -> LevelUp",
+      "replace_ids": [
+        73342515941691
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/LevelUp.ogg"
+    },
+    {
+      "name": "battlepass unlock -> LevelUp2",
+      "replace_ids": [
+        109434806857978
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/LevelUp2.ogg"
+    },
+    {
+      "name": "Legendary -> LevelUp2",
+      "replace_ids": [
+        115242013859477
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/LevelUp2.ogg"
+    },
+    {
+      "name": "Rare -> Coins1",
+      "replace_ids": [
+        106389504632250
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/Coins1.ogg"
+    },
+    {
+      "name": "Uncommon -> Click4",
+      "replace_ids": [
+        73528020263894
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/Click4.ogg"
+    },
+    {
+      "name": "Epic -> LevelUp",
+      "replace_ids": [
+        101289458946443
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/LevelUp.ogg"
+    },
+    {
+      "name": "Exclusive -> LevelUp2",
+      "replace_ids": [
+        72136482225865
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/LevelUp2.ogg"
+    },
+    {
+      "name": "joined -> Notification",
+      "replace_ids": [
+        134684439773091
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/Notification.ogg"
+    },
+    {
+      "name": "party -> Notification",
+      "replace_ids": [
+        125250381925330
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/Notification.ogg"
+    },
+    {
+      "name": "a match found -> Notification",
+      "replace_ids": [
+        131225192903912
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/Notification.ogg"
+    },
+    {
+      "name": "search match ui -> Notification",
+      "replace_ids": [
+        79689476081516
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/Notification.ogg"
+    },
+    {
+      "name": "match error -> Click4",
+      "replace_ids": [
+        125484964592476
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/Click4.ogg"
+    },
+    {
+      "name": "match point -> Kill_1",
+      "replace_ids": [
+        102401961683810
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/Kill_1.ogg"
+    },
+    {
+      "name": "round won -> Victory",
+      "replace_ids": [
+        126291097881499
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/Victory.ogg"
+    },
+    {
+      "name": "round loss -> Defeat",
+      "replace_ids": [
+        128795936301946
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/Defeat.ogg"
+    },
+    {
+      "name": "task -> Notification",
+      "replace_ids": [
+        81707677795679
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/Notification.ogg"
+    },
+    {
+      "name": "task complete 1 -> LevelUp",
+      "replace_ids": [
+        98087397784663
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/LevelUp.ogg"
+    },
+    {
+      "name": "new task refresh pop up -> Notification",
+      "replace_ids": [
+        79374945132734
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/Notification.ogg"
+    },
+    {
+      "name": "upgrade -> LevelUp",
+      "replace_ids": [
+        77957327104456
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/LevelUp.ogg"
+    },
+    {
+      "name": "back pack appear -> Click4",
+      "replace_ids": [
+        137881654777412
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/Click4.ogg"
+    },
+    {
+      "name": "bloop 1 -> Click4",
+      "replace_ids": [
+        135058034898005
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/Click4.ogg"
+    },
+    {
+      "name": "bloop 2 -> Click4",
+      "replace_ids": [
+        116133347557670
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/Click4.ogg"
+    },
+    {
+      "name": "bloop 3 -> Click4",
+      "replace_ids": [
+        85061410165301
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/Click4.ogg"
+    },
+    {
+      "name": "bloop 4 -> Click4",
+      "replace_ids": [
+        73400978086920
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/Click4.ogg"
+    },
+    {
+      "name": "bloop 5 -> Click4",
+      "replace_ids": [
+        105946756434421
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/Click4.ogg"
+    },
+    {
+      "name": "box sfx (1) -> Coins1",
+      "replace_ids": [
+        140438721769542
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/Coins1.ogg"
+    },
+    {
+      "name": "charm box sfx -> Coins1",
+      "replace_ids": [
+        109458142060537
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/Coins1.ogg"
+    },
+    {
+      "name": "claim low pitch -> Coins2",
+      "replace_ids": [
+        136478928540706
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/Coins2.ogg"
+    },
+    {
+      "name": "code error -> Click4",
+      "replace_ids": [
+        82838674112486
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/Click4.ogg"
+    },
+    {
+      "name": "coode redeemed -> LevelUp",
+      "replace_ids": [
+        89141692388052
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/LevelUp.ogg"
+    },
+    {
+      "name": "prompt shop -> Click4",
+      "replace_ids": [
+        129612538341493
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/Click4.ogg"
+    },
+    {
+      "name": "gun readdy -> Click4",
+      "replace_ids": [
+        101044929587837
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/Click4.ogg"
+    },
+    {
+      "name": "pass split 2 -> Coins1",
+      "replace_ids": [
+        76352497347166
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/Coins1.ogg"
+    },
+    {
+      "name": "split 1 pass -> Coins1",
+      "replace_ids": [
+        72115109224445
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/Coins1.ogg"
+    },
+    {
+      "name": "scene sfx -> Click4",
+      "replace_ids": [
+        115634071129956
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/Click4.ogg"
+    },
+    {
+      "name": "spray can sfx -> Click4",
+      "replace_ids": [
+        110574178178224
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/Click4.ogg"
+    },
+    {
+      "name": "whsh and rip 2 -> Click4",
+      "replace_ids": [
+        129876418037287
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/Click4.ogg"
+    },
+    {
+      "name": "purple_eye -> LevelUp",
+      "replace_ids": [
+        132771181104655
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/LevelUp.ogg"
+    },
+    {
+      "name": "red_blackhole -> LevelUp",
+      "replace_ids": [
+        98138324549251
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/LevelUp.ogg"
+    },
+    {
+      "name": "blood_oath -> LevelUp",
+      "replace_ids": [
+        104330503765422
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/LevelUp.ogg"
+    },
+    {
+      "name": "NYX_ONKILL_EFFECT_FLAME-PILLAR_V1 -> Exposion",
+      "replace_ids": [
+        127330461148114
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/Exposion.ogg"
+    },
+    {
+      "name": "NYX_ONKILL_EFFECT_ARCANE-DISSOLVE_V1 -> Exposion",
+      "replace_ids": [
+        121395322803004
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/Exposion.ogg"
+    },
+    {
+      "name": "NYX_ONKILL_EFFECT_ARCANE-SEAL_V1 -> Exposion",
+      "replace_ids": [
+        120685362614007
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/Exposion.ogg"
+    },
+    {
+      "name": "NYX_ONKILL_EFFECT_ASCENSION_V1 -> LevelUp2",
+      "replace_ids": [
+        81961750209563
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/LevelUp2.ogg"
+    },
+    {
+      "name": "NYX_ONKILL_EFFECT_BALLOON_V1 -> Coins1",
+      "replace_ids": [
+        84328548141748
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/Coins1.ogg"
+    },
+    {
+      "name": "NYX_ONKILL_EFFECT_BLACKHOLE_V1 -> Exposion",
+      "replace_ids": [
+        77587449381630
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/Exposion.ogg"
+    },
+    {
+      "name": "NYX_ONKILL_EFFECT_BUTTERFLY_V1 -> LevelUp",
+      "replace_ids": [
+        105326550788568
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/LevelUp.ogg"
+    },
+    {
+      "name": "NYX_ONKILL_EFFECT_CROWN-BURST_V1 -> LevelUp2",
+      "replace_ids": [
+        117714646383874
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/LevelUp2.ogg"
+    },
+    {
+      "name": "NYX_ONKILL_EFFECT_CRYSTALIZED_V1 -> KnifeZang",
+      "replace_ids": [
+        130705835417129
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/KnifeZang.ogg"
+    },
+    {
+      "name": "NYX_ONKILL_EFFECT_ELECTRIFIED_V1 -> Exposion",
+      "replace_ids": [
+        121602880688329
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/Exposion.ogg"
+    },
+    {
+      "name": "NYX_ONKILL_EFFECT_EMBER_V1 -> Exposion",
+      "replace_ids": [
+        112069604814389
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/Exposion.ogg"
+    },
+    {
+      "name": "NYX_ONKILL_EFFECT_FROZEN_V1 -> KnifeZang",
+      "replace_ids": [
+        83800936918962
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/KnifeZang.ogg"
+    },
+    {
+      "name": "NYX_ONKILL_EFFECT_GLITCH-OVERLOAD_V1 -> Exposion",
+      "replace_ids": [
+        73538732979040
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/Exposion.ogg"
+    },
+    {
+      "name": "NYX_ONKILL_EFFECT_GRAVE_V1 -> Exposion",
+      "replace_ids": [
+        108130420798762
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/Exposion.ogg"
+    },
+    {
+      "name": "NYX_ONKILL_EFFECT_GRAVITY_V1 -> Exposion",
+      "replace_ids": [
+        127992361028265
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/Exposion.ogg"
+    },
+    {
+      "name": "NYX_ONKILL_EFFECT_ICICLE-BARRAGE_V1 -> KnifeZang",
+      "replace_ids": [
+        77788934912635
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/KnifeZang.ogg"
+    },
+    {
+      "name": "NYX_ONKILL_EFFECT_PERMAFROST_V1 -> KnifeZang",
+      "replace_ids": [
+        78948470586308
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/KnifeZang.ogg"
+    },
+    {
+      "name": "NYX_ONKILL_EFFECT_PIANO_V1 -> LevelUp",
+      "replace_ids": [
+        117381268611426
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/LevelUp.ogg"
+    },
+    {
+      "name": "NYX_ONKILL_EFFECT_QUANTUM-CUT_V1 -> KnifeZing",
+      "replace_ids": [
+        70856947390549
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/KnifeZing.ogg"
+    },
+    {
+      "name": "NYX_ONKILL_EFFECT_VOID-COLLAPSE_V1 -> Exposion",
+      "replace_ids": [
+        94979956676928
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/Exposion.ogg"
+    },
+    {
+      "name": "NYX_ONKILL_EFFECT_WAVE-PULSE_V1 -> Exposion",
+      "replace_ids": [
+        74377483410980
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/Exposion.ogg"
+    },
+    {
+      "name": "NYX_FINISHER_ARCANE_V1 -> Exposion",
+      "replace_ids": [
+        74845289464617
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/Exposion.ogg"
+    },
+    {
+      "name": "NYX_FINISHER_ARCANE_V1 (1) -> Exposion",
+      "replace_ids": [
+        111925167133249
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/Exposion.ogg"
+    },
+    {
+      "name": "NYX_FINISHER_BLOOM_V1 -> LevelUp2",
+      "replace_ids": [
+        95224659915931
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/LevelUp2.ogg"
+    },
+    {
+      "name": "NYX_FINISHER_CRYOSTASIS_V1 -> KnifeZang",
+      "replace_ids": [
+        88376388265046
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/KnifeZang.ogg"
+    },
+    {
+      "name": "NYX_FINISHER_EXO_V1 -> Exposion",
+      "replace_ids": [
+        131859885485087
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/Exposion.ogg"
+    },
+    {
+      "name": "NYX_FINISHER_HEARTS_V1 -> LevelUp",
+      "replace_ids": [
+        117455598214656
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/hitmark_kill_ui/LevelUp.ogg"
+    },
+    {
+      "name": "NYX_FINISHER_HOLYSMITE_V2F (1) -> Exposion",
+      "replace_ids": [
+        75952722524107
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/Exposion.ogg"
+    },
+    {
+      "name": "NYX_FINISHER_MeteorStrike_V1 -> Exposion",
+      "replace_ids": [
+        74866871728919
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/Exposion.ogg"
+    },
+    {
+      "name": "NYX_FINISHER_NEPTUNE_V1 -> Exposion",
+      "replace_ids": [
+        76920109433305
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/Exposion.ogg"
+    },
+    {
+      "name": "NYX_FINISHER_RPG_V1 -> Exposion",
+      "replace_ids": [
+        130975485684512
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/Exposion.ogg"
+    },
+    {
+      "name": "NYX_FINISHER_RPG_V1 (1) -> Exposion",
+      "replace_ids": [
+        91950881105059
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/Exposion.ogg"
+    },
+    {
+      "name": "NYX_Finisher_GalaxyExplosion_PV1 -> Exposion",
+      "replace_ids": [
+        116367540592079
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/Exposion.ogg"
+    },
+    {
+      "name": "NYX_Finisher_GearWorks_V2 -> KnifeZang",
+      "replace_ids": [
+        104103909208277
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/KnifeZang.ogg"
+    },
+    {
+      "name": "NYX_WEAPON_KATANA_DEFLECT_01_V2 -> KnifeZing",
+      "replace_ids": [
+        118811401623991
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/KnifeZing.ogg"
+    },
+    {
+      "name": "NYX_WEAPON_KATANA_DEFLECT_02_V2 -> KnifeZang",
+      "replace_ids": [
+        82539879191460
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/KnifeZang.ogg"
+    },
+    {
+      "name": "NYX_WEAPON_KATANA_PARRY_01_V1 -> KnifeZing",
+      "replace_ids": [
+        113567886385574
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/KnifeZing.ogg"
+    },
+    {
+      "name": "NYX_WEAPON_KATANA_PARRY_02_V1 -> KnifeZang",
+      "replace_ids": [
+        117100239214977
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/KnifeZang.ogg"
+    },
+    {
+      "name": "NYX_SHOTGUN_SHOT_01_V1 -> BenelliFire",
+      "replace_ids": [
+        135943721342338
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/BenelliFire.ogg"
+    },
+    {
+      "name": "NYX_SHOTGUN_HANDLE_DRAW_V1 -> BenelliBoltOpen",
+      "replace_ids": [
+        138427505229332
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/BenelliBoltOpen.ogg"
+    },
+    {
+      "name": "NYX_SHOTGUN_HANDLE_RELOAD_START_01_V1 -> BenelliShellIn1",
+      "replace_ids": [
+        91493719756542
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/BenelliShellIn1.ogg"
+    },
+    {
+      "name": "NYX_SHOTGUN_HANDLE_RELOAD_START_02_V1 -> BenelliShellIn2",
+      "replace_ids": [
+        98159967337626
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/BenelliShellIn2.ogg"
+    },
+    {
+      "name": "NYX_SHOTGUN_HANDLE_RELOAD_START_03_V1 -> BenelliShellIn1",
+      "replace_ids": [
+        94081543211120
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/BenelliShellIn1.ogg"
+    },
+    {
+      "name": "NYX_SHOTGUN_HANDLE_RELOAD_LOOP_01_V1 -> BenelliShellIn1",
+      "replace_ids": [
+        87866521025444
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/BenelliShellIn1.ogg"
+    },
+    {
+      "name": "NYX_SHOTGUN_HANDLE_RELOAD_LOOP_02_V1 -> BenelliShellIn2",
+      "replace_ids": [
+        129983650317082
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/BenelliShellIn2.ogg"
+    },
+    {
+      "name": "NYX_SHOTGUN_HANDLE_RELOAD_LOOP_03_V1 -> BenelliShellIn1",
+      "replace_ids": [
+        130747449169771
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/BenelliShellIn1.ogg"
+    },
+    {
+      "name": "NYX_SHOTGUN_HANDLE_RELOAD_LOOP_04_V1 -> BenelliShellIn2",
+      "replace_ids": [
+        121380580292105
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/BenelliShellIn2.ogg"
+    },
+    {
+      "name": "NYX_SHOTGUN_HANDLE_RELOAD_END_03_V1 -> BenelliBoltClose",
+      "replace_ids": [
+        113218183866059
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/BenelliBoltClose.ogg"
+    },
+    {
+      "name": "NYX_JUMPPAD_ACTION_JUMP_01_V1 -> zipline_start",
+      "replace_ids": [
+        111968550103109
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/zipline_start.ogg"
+    },
+    {
+      "name": "NYX_JUMPPAD_ACTION_JUMP_02_V1 -> zipline_start",
+      "replace_ids": [
+        135542400149752
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/zipline_start.ogg"
+    },
+    {
+      "name": "NYX_JUMPPAD_ACTION_JUMP_03_V1 -> zipline_start",
+      "replace_ids": [
+        103110120692700
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/zipline_start.ogg"
+    },
+    {
+      "name": "NYX_JUMPPAD_ACTION_PLACED_01_V1 -> ShoulderPush",
+      "replace_ids": [
+        131312989558952
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/ShoulderPush.ogg"
+    },
+    {
+      "name": "NYX_JUMPPAD_ACTION_PLACED_02_V1 -> ShoulderPush",
+      "replace_ids": [
+        127239432944563
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/ShoulderPush.ogg"
+    },
+    {
+      "name": "NYX_JUMPPAD_ACTION_PLACED_03_V1 -> ShoulderPush",
+      "replace_ids": [
+        122913602856265
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/ShoulderPush.ogg"
+    },
+    {
+      "name": "NYX_JUMP-PAD_THROW_01_V1 -> ShoulderPush",
+      "replace_ids": [
+        101193571949206
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/ShoulderPush.ogg"
+    },
+    {
+      "name": "NYX_JUMP-PAD_THROW_02_V1 -> ShoulderPush",
+      "replace_ids": [
+        135909856685326
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/ShoulderPush.ogg"
+    },
+    {
+      "name": "NYX_JUMP-PAD_THROW_03_V1 -> ShoulderPush",
+      "replace_ids": [
+        122862323518536
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/ShoulderPush.ogg"
+    },
+    {
+      "name": "NYX_Movement_DoubleJump_01_V1 -> zipline_end",
+      "replace_ids": [
+        115826790693113
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/zipline_end.ogg"
+    },
+    {
+      "name": "NYX_Movement_DoubleJump_02_V1 -> zipline_end",
+      "replace_ids": [
+        112572854377235
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/zipline_end.ogg"
+    },
+    {
+      "name": "NYX_Movement_DoubleJump_03_V1 -> zipline_end",
+      "replace_ids": [
+        71154482865830
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/zipline_end.ogg"
+    },
+    {
+      "name": "NYX_Movement_DoubleJump_04_V1 -> zipline_end",
+      "replace_ids": [
+        82785665988690
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/zipline_end.ogg"
+    },
+    {
+      "name": "NYX_Movement_DoubleJump_01_V3 -> zipline_end",
+      "replace_ids": [
+        92861967142915
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/zipline_end.ogg"
+    },
+    {
+      "name": "NYX_Movement_DoubleJump_02_V3 -> zipline_end",
+      "replace_ids": [
+        131469666380606
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/zipline_end.ogg"
+    },
+    {
+      "name": "NYX_Movement_DoubleJump_03_V3 -> zipline_end",
+      "replace_ids": [
+        91359171832656
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/zipline_end.ogg"
+    },
+    {
+      "name": "NYX_Movement_DoubleJump_04_V3 -> zipline_end",
+      "replace_ids": [
+        73581549100755
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/zipline_end.ogg"
+    },
+    {
+      "name": "NYX_TOMMYGUN_SHOT_01_V4 -> M13Fire1",
+      "replace_ids": [
+        "130501083711232"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/ar_smg/M13Fire1.ogg"
+    },
+    {
+      "name": "NYX_TOMMYGUN_SHOT_02_V4 -> M13Fire2",
+      "replace_ids": [
+        "99332646415985"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/ar_smg/M13Fire2.ogg"
+    },
+    {
+      "name": "NYX_TOMMYGUN_SHOT_03_V4 -> M13Fire3",
+      "replace_ids": [
+        "135579170895373"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/ar_smg/M13Fire3.ogg"
+    },
+    {
+      "name": "NYX_TOMMYGUN_SHOT_04_V4 -> M13Fire1",
+      "replace_ids": [
+        "106219027629284"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/ar_smg/M13Fire1.ogg"
+    },
+    {
+      "name": "NYX_TOMMYGUN_SHOT_05_V4 -> M13Fire2",
+      "replace_ids": [
+        "101737103604221"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/ar_smg/M13Fire2.ogg"
+    },
+    {
+      "name": "NYX_TOMMYGUN_SHOT_06_V4 -> M13Fire3",
+      "replace_ids": [
+        "93590177647267"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/ar_smg/M13Fire3.ogg"
+    },
+    {
+      "name": "NYX_AR_SHOT_01_VX2 -> M4_OneShot_1",
+      "replace_ids": [
+        "124107082160782"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/ambience/rifle1.wav"
+    },
+    {
+      "name": "NYX_AR_SHOT_02_VX2 -> M4_OneShot_2",
+      "replace_ids": [
+        "140677947529962"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/ambience/rifle1.wav"
+    },
+    {
+      "name": "NYX_AR_SHOT_03_VX2 -> M4_OneShot_3",
+      "replace_ids": [
+        "113665254189999"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/ambience/rifle1.wav"
+    },
+    {
+      "name": "NYX_AR_SHOT_04_VX2 -> M4_OneShot_1",
+      "replace_ids": [
+        "126899782740483"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/ambience/rifle1.wav"
+    },
+    {
+      "name": "NYX_AR_SHOT_05_VX2 -> M4_OneShot_2",
+      "replace_ids": [
+        "120242285617038"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/ambience/rifle1.wav"
+    },
+    {
+      "name": "NYX_AR_SHOT_06_VX2 -> M4_OneShot_3",
+      "replace_ids": [
+        "114292334861581"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/ambience/rifle1.wav"
+    },
+    {
+      "name": "NYX_AK47_HANDLE_DRAW_V1 -> AKBoltOpen",
+      "replace_ids": [
+        "108700800285652"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/ar_smg/AKBoltOpen.ogg"
+    },
+    {
+      "name": "NYX_AK47_HANDLE_RELOAD_V2 -> AKBoltClose",
+      "replace_ids": [
+        "91310232178605"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/ar_smg/MP5_Reload_Full.ogg"
+    },
+    {
+      "name": "NYX_AK47_HANDLE_INSPECT_V1 -> MP5MagIn",
+      "replace_ids": [
+        "78497956952681"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/ar_smg/MP5MagIn.ogg"
+    },
+    {
+      "name": "NYX_HANDGUN_SHOT_01_V2 -> GlockFire",
+      "replace_ids": [
+        "103154195555833"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/weapons/357_shot1.wav"
+    },
+    {
+      "name": "NYX_HANDGUN_SHOT_02_V2 -> GlockFire_1",
+      "replace_ids": [
+        "116891245043910"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/weapons/357_shot2.wav"
+    },
+    {
+      "name": "NYX_HANDGUN_SHOT_03_V2 -> GlockFire_2",
+      "replace_ids": [
+        "75700937160550"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/weapons/357_shot1.wav"
+    },
+    {
+      "name": "NYX_HANDGUN_SHOT_04_V2 -> P320Fire1",
+      "replace_ids": [
+        "90105029601226"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/weapons/357_shot2.wav"
+    },
+    {
+      "name": "NYX_HANDGUN_SHOT_05_V2 -> P320Fire2",
+      "replace_ids": [
+        "80368184244993"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/weapons/357_shot1.wav"
+    },
+    {
+      "name": "NYX_HANDGUN_SHOT_06_V2 -> P320Fire3",
+      "replace_ids": [
+        "87257875013192"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/weapons/357_shot2.wav"
+    },
+    {
+      "name": "NYX_HANDGUN_HANDLE_DRAW_V1 -> GlockBoltOpen",
+      "replace_ids": [
+        "127161140119145"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/pistols/GlockBoltOpen.ogg"
+    },
+    {
+      "name": "NYX_HANDGUN_HANDLE_RELOAD_V1 -> GlockMagIn",
+      "replace_ids": [
+        "97526227250748"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/pistols/Glock_Reload_Full.ogg"
+    },
+    {
+      "name": "NYX_DEAGLE_SHOT_01_V2 -> deagle-1",
+      "replace_ids": [
+        "135456281113207"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/pistols/deagle-1.ogg"
+    },
+    {
+      "name": "NYX_DEAGLE_SHOT_02_V2 -> deagle-2",
+      "replace_ids": [
+        "126351622931533"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/pistols/deagle-2.ogg"
+    },
+    {
+      "name": "NYX_DEAGLE_SHOT_03_V2 -> deagle-3",
+      "replace_ids": [
+        "134706577464308"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/pistols/deagle-3.ogg"
+    },
+    {
+      "name": "NYX_DEAGLE_SHOT_04_V2 -> deagle-1",
+      "replace_ids": [
+        "137296428311051"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/pistols/deagle-1.ogg"
+    },
+    {
+      "name": "NYX_DEAGLE_SHOT_05_V2 -> deagle-2",
+      "replace_ids": [
+        "102455605963049"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/pistols/deagle-2.ogg"
+    },
+    {
+      "name": "NYX_DEAGLE_SHOT_06_V2 -> deagle-3",
+      "replace_ids": [
+        "109249382556400"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/pistols/deagle-3.ogg"
+    },
+    {
+      "name": "NYX_DEAGLE_HANDLE_DRAW_V1 -> P320BoltOpen",
+      "replace_ids": [
+        "72883179251421"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/pistols/P320BoltOpen.ogg"
+    },
+    {
+      "name": "NYX_TEC9_SHOT_01_V3 -> MP5Fire1",
+      "replace_ids": [
+        "72743998324088"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/ar_smg/MP5Fire1.ogg"
+    },
+    {
+      "name": "NYX_TEC9_SHOT_02_V3 -> MP5Fire2",
+      "replace_ids": [
+        "113170096316872"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/ar_smg/MP5Fire2.ogg"
+    },
+    {
+      "name": "NYX_TEC9_SHOT_03_V3 -> MP5Fire3",
+      "replace_ids": [
+        "76284781510346"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/ar_smg/MP5Fire3.ogg"
+    },
+    {
+      "name": "NYX_TEC9_SHOT_04_V3 -> MP5Fire1",
+      "replace_ids": [
+        "127517371994412"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/ar_smg/MP5Fire1.ogg"
+    },
+    {
+      "name": "NYX_TEC9_SHOT_05_V3 -> MP5Fire2",
+      "replace_ids": [
+        "108805900360649"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/ar_smg/MP5Fire2.ogg"
+    },
+    {
+      "name": "NYX_TEC9_SHOT_06_V3 -> MP5Fire3",
+      "replace_ids": [
+        "88786844253273"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/ar_smg/MP5Fire3.ogg"
+    },
+    {
+      "name": "NYX_TEC9_HANDLE_DRAW_V1 -> MP5BoltOpen",
+      "replace_ids": [
+        "79768384881124"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/ar_smg/MP5BoltOpen.ogg"
+    },
+    {
+      "name": "NYX_TEC9_HANDLE_RELOAD_V1 -> MP5MagIn",
+      "replace_ids": [
+        "135248887241708"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/ar_smg/MP5_Reload_Full.ogg"
+    },
+    {
+      "name": "NYX_TOMMYGUN_HANDLE_DRAW_V1 -> MP5BoltOpen",
+      "replace_ids": [
+        "107324052826889"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/ar_smg/MP5BoltOpen.ogg"
+    },
+    {
+      "name": "NYX_TOMMYGUN_HANDLE_RELOAD_V1 -> MP5MagIn",
+      "replace_ids": [
+        "110650543936486"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/ar_smg/MP5_Reload_Full.ogg"
+    },
+    {
+      "name": "NYX_DOUBLE-BARREL_SHOT_1_V1 -> BenelliFire",
+      "replace_ids": [
+        "139822852531965"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/replacement_rules/BenelliFire.ogg"
+    },
+    {
+      "name": "NYX_DOUBLE-BARREL_SHOT_2_V1 -> BenelliFire_1",
+      "replace_ids": [
+        "72036105031531"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/replacement_rules/BenelliFire_1.ogg"
+    },
+    {
+      "name": "NYX_DOUBLE-BARREL_SHOT_3_V1 -> BenelliFire_2",
+      "replace_ids": [
+        "88095109486642"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/replacement_rules/BenelliFire_2.ogg"
+    },
+    {
+      "name": "NYX_DOUBLE-BARREL_SHOT_4_V1 -> BenelliFire",
+      "replace_ids": [
+        "113053139035411"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/replacement_rules/BenelliFire.ogg"
+    },
+    {
+      "name": "NYX_DOUBLE-BARREL_SHOT_5_V1 -> BenelliFire_1",
+      "replace_ids": [
+        "101553351044752"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/replacement_rules/BenelliFire_1.ogg"
+    },
+    {
+      "name": "NYX_DOUBLE-BARREL_HANDLE_EQUIP_V1 -> BenelliBoltOpen",
+      "replace_ids": [
+        "96679739622617"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/replacement_rules/BenelliBoltOpen.ogg"
+    },
+    {
+      "name": "NYX_Hitmarker_Kill_V10 -> Hitmark",
+      "replace_ids": [
+        "76237515139905"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/replacement_rules/Hitmark.ogg"
+    },
+    {
+      "name": "NYX_Hitmarker_Headshot_V11 -> Hitmark",
+      "replace_ids": [
+        "95264801064260"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/replacement_rules/Hitmark.ogg"
+    },
+    {
+      "name": "NYX_General_PlayerImpact_Body_01_V1 -> Kill_1",
+      "replace_ids": [
+        "115040739375185"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/replacement_rules/Kill_1.ogg"
+    },
+    {
+      "name": "NYX_General_PlayerImpact_Body_02_V1 -> Kill_2",
+      "replace_ids": [
+        "122506148775830"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/replacement_rules/Kill_2.ogg"
+    },
+    {
+      "name": "NYX_General_PlayerImpact_Body_03_V1 -> Kill_3",
+      "replace_ids": [
+        "135985290407243"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/replacement_rules/Kill_3.ogg"
+    },
+    {
+      "name": "NYX_General_PlayerImpact_Body_04_V1 -> Kill_4",
+      "replace_ids": [
+        "107018466680698"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/replacement_rules/Kill_4.ogg"
+    },
+    {
+      "name": "NYX_General_PlayerImpact_Body_05_V1 -> Kill_5",
+      "replace_ids": [
+        "139767866243482"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/replacement_rules/Kill_5.ogg"
+    },
+    {
+      "name": "NYX_General_PlayerImpact_Body_06_V1 -> Kill_1",
+      "replace_ids": [
+        "129678682520430"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/replacement_rules/Kill_1.ogg"
+    },
+    {
+      "name": "NYX_General_PlayerImpact_Head_01_V1 -> Kill_1",
+      "replace_ids": [
+        "129272289405789"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/replacement_rules/Kill_1.ogg"
+    },
+    {
+      "name": "NYX_General_PlayerImpact_Head_02_V1 -> Kill_2",
+      "replace_ids": [
+        "112023684837873"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/replacement_rules/Kill_2.ogg"
+    },
+    {
+      "name": "NYX_General_PlayerImpact_Head_03_V1 -> Kill_3",
+      "replace_ids": [
+        "119263462886250"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/replacement_rules/Kill_3.ogg"
+    },
+    {
+      "name": "NYX_General_PlayerImpact_Head_04_V1 -> Kill_4",
+      "replace_ids": [
+        "103609495830507"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/replacement_rules/Kill_4.ogg"
+    },
+    {
+      "name": "NYX_General_PlayerImpact_Head_05_V1 -> Kill_5",
+      "replace_ids": [
+        "91229708999700"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/replacement_rules/Kill_5.ogg"
+    },
+    {
+      "name": "NYX_General_PlayerImpact_Head_06_V1 -> Kill_1",
+      "replace_ids": [
+        "136971329335627"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/replacement_rules/Kill_1.ogg"
+    },
+    {
+      "name": "NYX_General_BulletWhiz_01_V1 -> BulletWhiz1",
+      "replace_ids": [
+        "78111613849200"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/replacement_rules/BulletWhiz1.ogg"
+    },
+    {
+      "name": "NYX_General_BulletWhiz_02_V1 -> BulletWhiz2",
+      "replace_ids": [
+        "80662765749320"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/replacement_rules/BulletWhiz2.ogg"
+    },
+    {
+      "name": "NYX_General_BulletWhiz_03_V1 -> BulletWhiz3",
+      "replace_ids": [
+        "78905082930758"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/replacement_rules/BulletWhiz3.ogg"
+    },
+    {
+      "name": "NYX_General_BulletWhiz_04_V1 -> BulletWhiz1",
+      "replace_ids": [
+        "73320471578689"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/replacement_rules/BulletWhiz1.ogg"
+    },
+    {
+      "name": "NYX_General_BulletWhiz_05_V1 -> BulletWhiz2",
+      "replace_ids": [
+        "102743959004128"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/replacement_rules/BulletWhiz2.ogg"
+    },
+    {
+      "name": "NYX_General_BulletWhiz_06_V1 -> BulletWhiz3",
+      "replace_ids": [
+        "84529117668949"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/replacement_rules/BulletWhiz3.ogg"
+    },
+    {
+      "name": "NYX_General_BulletWhiz_07_V1 -> BulletWhiz1",
+      "replace_ids": [
+        "126886953258433"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/replacement_rules/BulletWhiz1.ogg"
+    },
+    {
+      "name": "NYX_General_BulletWhiz_08_V1 -> BulletWhiz2",
+      "replace_ids": [
+        "73621711413125"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/replacement_rules/BulletWhiz2.ogg"
+    },
+    {
+      "name": "NYX_Impact_Fists_01_V1 -> MeleeSlash1",
+      "replace_ids": [
+        "72520758290728"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/MeleeSlash1.ogg"
+    },
+    {
+      "name": "NYX_Impact_Fists_02_V1 -> MeleeSlash2",
+      "replace_ids": [
+        "100690769792621"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/MeleeSlash2.ogg"
+    },
+    {
+      "name": "NYX_Impact_Fists_03_V1 -> MeleeSlash3",
+      "replace_ids": [
+        "73383274461029"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/MeleeSlash3.ogg"
+    },
+    {
+      "name": "NYX_Impact_Fists_04_V1 -> MeleeSlash1",
+      "replace_ids": [
+        "101347643328971"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/MeleeSlash1.ogg"
+    },
+    {
+      "name": "NYX_Impact_Fists_05_V1 -> MeleeSlash2",
+      "replace_ids": [
+        "98765635463228"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/MeleeSlash2.ogg"
+    },
+    {
+      "name": "NYX_Impact_Fists_06_V1 -> MeleeSlash3",
+      "replace_ids": [
+        "107446795211393"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/MeleeSlash3.ogg"
+    },
+    {
+      "name": "NYX_FISTS_SWIPE_M1-1_01_V1 -> MeleeSlash1",
+      "replace_ids": [
+        "92494978922344"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/MeleeSlash1.ogg"
+    },
+    {
+      "name": "NYX_FISTS_SWIPE_M1-1_02_V1 -> MeleeSlash2",
+      "replace_ids": [
+        "99283691771872"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/MeleeSlash2.ogg"
+    },
+    {
+      "name": "NYX_FISTS_SWIPE_M1-1_03_V1 -> MeleeSlash3",
+      "replace_ids": [
+        "102945946109878"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/MeleeSlash3.ogg"
+    },
+    {
+      "name": "NYX_FISTS_SWIPE_M1-2_01_V1 -> MeleeSlash1",
+      "replace_ids": [
+        "103949211315226"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/MeleeSlash1.ogg"
+    },
+    {
+      "name": "NYX_FISTS_SWIPE_M1-2_03_V1 -> MeleeSlash2",
+      "replace_ids": [
+        "102385004078193"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/MeleeSlash2.ogg"
+    },
+    {
+      "name": "NYX_Impact_PlayerKnifeSlash_01_V1 -> KnifeZing",
+      "replace_ids": [
+        "120878704800092"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/KnifeZing.ogg"
+    },
+    {
+      "name": "NYX_Impact_PlayerKnifeSlash_02_V1 -> KnifeZing",
+      "replace_ids": [
+        "125515344032080"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/KnifeZing.ogg"
+    },
+    {
+      "name": "NYX_Impact_PlayerKnifeSlash_03_V1 -> KnifeZang",
+      "replace_ids": [
+        "88106509433801"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/KnifeZang.ogg"
+    },
+    {
+      "name": "NYX_Impact_PlayerKnifeSlash_04_V1 -> KnifeZing",
+      "replace_ids": [
+        "134030552832238"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/KnifeZing.ogg"
+    },
+    {
+      "name": "NYX_Impact_PlayerKnifeSlash_05_V1 -> KnifeZang",
+      "replace_ids": [
+        "129152257778097"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/KnifeZang.ogg"
+    },
+    {
+      "name": "NYX_Impact_WallKnifeHit_01_V1 -> KnifeZang",
+      "replace_ids": [
+        "127681968824377"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/KnifeZang.ogg"
+    },
+    {
+      "name": "NYX_Impact_WallKnifeHit_02_V1 -> KnifeZang",
+      "replace_ids": [
+        "112596695669370"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/KnifeZang.ogg"
+    },
+    {
+      "name": "NYX_Impact_WallKnifeHit_03_V1 -> KnifeZing",
+      "replace_ids": [
+        "108497542029581"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/KnifeZing.ogg"
+    },
+    {
+      "name": "NYX_Impact_WallKnifeHit_04_V1 -> KnifeZing",
+      "replace_ids": [
+        "124500750492969"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/KnifeZing.ogg"
+    },
+    {
+      "name": "NYX_Weapon_Explosion_Large_01_V1 -> Exposion",
+      "replace_ids": [
+        "125021546450302"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/Exposion.ogg"
+    },
+    {
+      "name": "NYX_Weapon_Explosion_Large_02_V1 -> Exposion",
+      "replace_ids": [
+        "84048863415572"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/Exposion.ogg"
+    },
+    {
+      "name": "NYX_Weapon_Explosion_Large_03_V1 -> Exposion",
+      "replace_ids": [
+        "106826012383787"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/Exposion.ogg"
+    },
+    {
+      "name": "NYX_RAYGUN_EXPLOSION_01_V1 -> Exposion",
+      "replace_ids": [
+        "101328785356155"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/Exposion.ogg"
+    },
+    {
+      "name": "NYX_RAYGUN_EXPLOSION_02_V1 -> Exposion",
+      "replace_ids": [
+        "103016676757255"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/Exposion.ogg"
+    },
+    {
+      "name": "NYX_RAYGUN_EXPLOSION_03_V1 -> Exposion",
+      "replace_ids": [
+        "104650984782433"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/Exposion.ogg"
+    },
+    {
+      "name": "NYX_RAYGUN_EXPLOSION_04_V1 -> Exposion",
+      "replace_ids": [
+        "110919071985305"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc_useful/Exposion.ogg"
+    },
+    {
+      "name": "NYX_UI_General_PlayerDeath_V3 -> Defeat",
+      "replace_ids": [
+        "96658809536515"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/replacement_rules/Defeat.ogg"
+    },
+    {
+      "name": "NYX_Impact_PlayerSelfHit_01_V1 -> Hitmark",
+      "replace_ids": [
+        "100761247666727"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/replacement_rules/Hitmark.ogg"
+    },
+    {
+      "name": "NYX_Impact_PlayerSelfHit_02_V1 -> Hitmark",
+      "replace_ids": [
+        "133115082553123"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/replacement_rules/Hitmark.ogg"
+    },
+    {
+      "name": "NYX_Impact_PlayerSelfHit_03_V1 -> Hitmark",
+      "replace_ids": [
+        "118680489112238"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/replacement_rules/Hitmark.ogg"
+    },
+    {
+      "name": "NYX_Impact_PlayerSelfHit_04_V1 -> Hitmark",
+      "replace_ids": [
+        "92015174705177"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/replacement_rules/Hitmark.ogg"
+    },
+    {
+      "name": "NYX_Impact_PlayerSelfHit_05_V1 -> Hitmark",
+      "replace_ids": [
+        "103649957795633"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/replacement_rules/Hitmark.ogg"
+    },
+    {
+      "name": "NYX_Impact_PlayerSelfHit_06_V1 -> Hitmark",
+      "replace_ids": [
+        "120707372909916"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/replacement_rules/Hitmark.ogg"
+    },
+    {
+      "name": "AWP SHOT 01 -> R700Fire",
+      "replace_ids": [
+        80259222677287
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/sniper_r700/R700Fire.ogg"
+    },
+    {
+      "name": "AWP SHOT 02 -> R700Fire_1",
+      "replace_ids": [
+        131330537363075
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/sniper_r700/R700Fire_1.ogg"
+    },
+    {
+      "name": "AWP SHOT 03 -> R700Fire_2",
+      "replace_ids": [
+        80142623115760
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/sniper_r700/R700Fire_2.ogg"
+    },
+    {
+      "name": "AWP BOLT 01 -> R700BoltOpen",
+      "replace_ids": [
+        105710934341015
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/sniper_r700/R700BoltOpen.ogg"
+    },
+    {
+      "name": "AWP BOLT 02 -> R700BoltClose",
+      "replace_ids": [
+        123567580090836
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/sniper_r700/R700BoltClose.ogg"
+    },
+    {
+      "name": "AWP BOLT 03 -> R700BoltClose",
+      "replace_ids": [
+        74954675840004
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/sniper_r700/R700BoltClose.ogg"
+    },
+    {
+      "name": "AWP DRAW -> R700MagOut",
+      "replace_ids": [
+        72995760802967
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/sniper_r700/R700MagOut.ogg"
+    },
+    {
+      "name": "AWP RELOAD -> R700_Reload_Full",
+      "replace_ids": [
+        118961131795396
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/sniper_r700/R700_Reload_Full.ogg"
+    }
+  ]
+}
