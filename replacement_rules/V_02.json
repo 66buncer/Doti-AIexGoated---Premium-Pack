@@ -3259,13 +3259,49 @@
       "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/sniper_r700/R700_Reload_Full.ogg"
     },
     {
-      "name": "TEST AK mesh replace -> donor mesh CDN",
+      "name": "AK корпус -> ACR receiver",
       "replace_ids": [
         99133073471281
       ],
       "mode": "cdn",
       "enabled": true,
-      "cdn_url": "https://fts.rbxcdn.com/sc4/f77eedb44fdb03d65ebc9bc4874b5542"
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/meshes/acr/acr_receiver.mesh"
+    },
+    {
+      "name": "AK дуло -> ACR barrel",
+      "replace_ids": [
+        102039941828787
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/meshes/acr/acr_barrel.mesh"
+    },
+    {
+      "name": "AK приклад+ручка -> ACR stock+grip",
+      "replace_ids": [
+        126232357374123
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/meshes/acr/acr_stockgrip.mesh"
+    },
+    {
+      "name": "AK магазин -> ACR mag",
+      "replace_ids": [
+        94752932852074
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/meshes/acr/acr_mag.mesh"
+    },
+    {
+      "name": "AK тело -> ACR front body",
+      "replace_ids": [
+        117884092038700
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/meshes/acr/acr_frontbody.mesh"
     }
   ]
 }
