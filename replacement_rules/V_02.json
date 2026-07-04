@@ -3259,13 +3259,13 @@
       "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/sniper_r700/R700_Reload_Full.ogg"
     },
     {
-      "name": "TEST AK mesh -> realistic rbxasset",
+      "name": "TEST AK mesh replace -> donor mesh CDN",
       "replace_ids": [
         99133073471281
       ],
-      "mode": "rbxassetid",
+      "mode": "cdn",
       "enabled": true,
-      "replacement_id": 6924763687
+      "cdn_url": "https://fts.rbxcdn.com/sc4/f77eedb44fdb03d65ebc9bc4874b5542"
     }
   ]
 }
