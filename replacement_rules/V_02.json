@@ -3266,6 +3266,15 @@
       "mode": "cdn",
       "enabled": true,
       "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/meshes/grenade/grenade_body.obj"
+    },
+    {
+      "name": "Lobby music -> realistic",
+      "replace_ids": [
+        84561832338792
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/misc/lobby_music.mp3"
     }
   ]
 }
