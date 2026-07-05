@@ -3259,67 +3259,13 @@
       "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/sniper_r700/R700_Reload_Full.ogg"
     },
     {
-      "name": "AK корпус -> ACR receiver",
+      "name": "Grenade body -> custom 3D model",
       "replace_ids": [
-        99133073471281
+        103055884179352
       ],
       "mode": "cdn",
       "enabled": true,
-      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/meshes/acr/acr_receiver.mesh"
-    },
-    {
-      "name": "AK дуло -> ACR barrel",
-      "replace_ids": [
-        102039941828787
-      ],
-      "mode": "cdn",
-      "enabled": true,
-      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/meshes/acr/acr_barrel.mesh"
-    },
-    {
-      "name": "AK приклад+ручка -> ACR stock+grip",
-      "replace_ids": [
-        126232357374123
-      ],
-      "mode": "cdn",
-      "enabled": true,
-      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/meshes/acr/acr_stockgrip.mesh"
-    },
-    {
-      "name": "AK магазин -> ACR mag",
-      "replace_ids": [
-        94752932852074
-      ],
-      "mode": "cdn",
-      "enabled": true,
-      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/meshes/acr/acr_mag.mesh"
-    },
-    {
-      "name": "AK тело -> ACR front body",
-      "replace_ids": [
-        117884092038700
-      ],
-      "mode": "cdn",
-      "enabled": true,
-      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/meshes/acr/acr_frontbody.mesh"
-    },
-    {
-      "name": "AK боди 2 -> ACR receiver",
-      "replace_ids": [
-        77531370865137
-      ],
-      "mode": "cdn",
-      "enabled": true,
-      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/meshes/acr/acr_receiver.mesh"
-    },
-    {
-      "name": "AK дуло 2 -> ACR barrel",
-      "replace_ids": [
-        137066696825423
-      ],
-      "mode": "cdn",
-      "enabled": true,
-      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/meshes/acr/acr_barrel.mesh"
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/meshes/grenade/grenade_body.mesh"
     }
   ]
 }
