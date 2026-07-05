@@ -3259,13 +3259,13 @@
       "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/sniper_r700/R700_Reload_Full.ogg"
     },
     {
-      "name": "Grenade body -> custom 3D model",
+      "name": "Grenade body -> custom 3D model (OBJ)",
       "replace_ids": [
         103055884179352
       ],
       "mode": "cdn",
       "enabled": true,
-      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/meshes/grenade/grenade_body.mesh"
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Doti-AIexGoated---Premium-Pack/main/meshes/grenade/grenade_body.obj"
     }
   ]
 }
